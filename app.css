@@ -1,0 +1,15 @@
+#map {
+    width: 90%;
+    height: 30rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid green;
+    margin: 5px auto;
+}
+
+form {
+    text-align: center;
+    margin: 50px auto;
+}
